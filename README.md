@@ -1,6 +1,6 @@
 # Game-Development
-Development of Tic Tac Toe Game 
-Implemeted in 2019 
+Development of Tic Tac Toe Game.
+Implemeted in 2019. 
 Tech stack - Java 
 
 Demo of the Game - 
